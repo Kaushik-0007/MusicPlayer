@@ -1,2 +1,3 @@
 # MusicPlayer
-Implementation of the functions of a music player using the data structures doubly linked list and queue.
+A doubly linked list and queue based music player software with functions to add, delete, search, play songs and play queue, reverse queue functionality among others
+
